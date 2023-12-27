@@ -2,4 +2,3 @@ Component: stable
 Architecture: amd64
 Suite: jammy
 Origin: Docker
-Label: Docker CE
